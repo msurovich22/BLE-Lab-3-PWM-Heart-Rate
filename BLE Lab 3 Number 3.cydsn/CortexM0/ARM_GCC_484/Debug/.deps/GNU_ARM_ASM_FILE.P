@@ -1,0 +1,8 @@
+C:/Users/Michael/Desktop/Removable\ Disk/BLE\ Lab\ 3/BLE\ Lab\ 3\ Number.cydsn/CortexM0/ARM_GCC_484/Debug/CyBootAsmGnu.o : C:/Users/Michael/Desktop/Removable\ Disk/BLE\ Lab\ 3/BLE\ Lab\ 3\ Number.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/Users/Michael/Desktop/Removable\ Disk/BLE\ Lab\ 3/BLE\ Lab\ 3\ Number.cydsn/Generated_Source/PSoC4/cyfittergnu.inc C:/Users/Michael/Desktop/Removable\ Disk/BLE\ Lab\ 3/BLE\ Lab\ 3\ Number.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s 
+
+C:/Users/Michael/Desktop/Removable\ Disk/BLE\ Lab\ 3/BLE\ Lab\ 3\ Number.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+C:/Users/Michael/Desktop/Removable\ Disk/BLE\ Lab\ 3/BLE\ Lab\ 3\ Number.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+
+C:/Users/Michael/Desktop/Removable\ Disk/BLE\ Lab\ 3/BLE\ Lab\ 3\ Number.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
