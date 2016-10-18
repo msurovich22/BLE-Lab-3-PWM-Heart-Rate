@@ -1,0 +1,5 @@
+C:\Users\Michael\Documents\Git Repositories\BLE-Lab-3-PWM-Heart-Rate\BLE Lab 3 Number 3.cydsn\BLE Lab 3 Number 3.cyprj|c89b02a2-c8a2-40bc-bdb3-1d550e5f8d88
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|18fa719e-00ab-457c-99f8-671591497489
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1f533255-8a05-44dd-a062-506d1b2e1aaf
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|716322c1-9066-402a-a100-4f960c477e20
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|04eccc37-6def-48a5-b104-accb7cd746f6

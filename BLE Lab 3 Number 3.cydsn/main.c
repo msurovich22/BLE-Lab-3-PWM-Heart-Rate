@@ -161,6 +161,7 @@ int main()
     
     /* Initialize all blocks of the system */
 	InitializeSystem();
+    
     PWM_Start();
     
     /* Run forever */
